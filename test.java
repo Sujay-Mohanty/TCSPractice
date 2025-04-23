@@ -3,7 +3,5 @@ class test{
     assert(false);
   }
 
-public void testMethod2(){
-assert(true);
-}
+
 }
