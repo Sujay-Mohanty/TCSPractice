@@ -6,4 +6,7 @@ class test{
 public void testMethod2(){
 assert(true);
 }
+
+  public void testMethod3(){
+  }
 }
